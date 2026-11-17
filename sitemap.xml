@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
-    <loc>https://skuterserwis.pl/</loc>
+    <loc>https://www.skuterserwis.pl/</loc>
   </url>
+
+  <url>
+    <loc>https://www.skuterserwis.pl/Uslugiskutery.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.skuterserwis.pl/wysylkasilnika.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.skuterserwis.pl/tuning.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.skuterserwis.pl/Wiedzaskuteryv2.html</loc>
+  </url>
+
+  <url>
+    <loc>https://www.skuterserwis.pl/kontakt.html</loc>
+  </url>
+
 </urlset>
